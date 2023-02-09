@@ -253,4 +253,4 @@ system call
 
 ---
 
-- *[arash attari](https://github.com/arashatt)* | **<attariarash@gmai.com>**
+- *[arash attari](https://github.com/arashatt)* | **<attariarash@gmail.com>**
